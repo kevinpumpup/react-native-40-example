@@ -1,0 +1,3 @@
+rootProject.name = 'React40'
+
+include ':app'
